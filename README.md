@@ -1,2 +1,0 @@
-# NeuralSyncPro
-Product landing page
